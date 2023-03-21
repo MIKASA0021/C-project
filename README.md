@@ -13,7 +13,7 @@ Change directory of terminal to the folder containing the source code and type:
 - [Ishwor](https://github.com/optimistic-ish)
 - [Bipul](https://github.com/bipul018)
 - [Himansu](https://github.com/itmaybehimm)
-- [Mamta](https://github.com/Mamata-Maharjan)
+- [Mamata](https://github.com/Mavis021)
 
 ## Files info:
 
